@@ -14,9 +14,9 @@ namespace Common
 
         public static string topicName = "topic1";
         public static string subscriptionName = "sub1";
-        public static string serviceBusEndpoint = "anildwasb.servicebus.windows.net";
-        public static string serviceBusServiceName = "anildwasb";
-        public static string sasKey = "MlDjWsyIXFBwc8vj2aVfW5YMS6UUR0BLkdOguWs5sII=";
+        public static string serviceBusEndpoint = "<service bus namespace>.servicebus.windows.net";
+        public static string serviceBusServiceName = "<service bus namespace>";
+        public static string sasKey = "<service bus access key>";
         public static string resourceUri = $"https://{serviceBusEndpoint}/{topicName}";
         public static string keyName = "RootManageSharedAccessKey";
 
