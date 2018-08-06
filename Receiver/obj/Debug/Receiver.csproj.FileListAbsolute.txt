@@ -1,0 +1,10 @@
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Receiver\obj\Debug\Receiver.csprojAssemblyReference.cache
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Receiver\obj\Debug\Receiver.csproj.CoreCompileInputs.cache
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Receiver\bin\Debug\Receiver.exe.config
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Receiver\bin\Debug\Receiver.exe
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Receiver\bin\Debug\Receiver.pdb
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Receiver\bin\Debug\Common.dll
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Receiver\bin\Debug\Common.pdb
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Receiver\obj\Debug\Receiver.csproj.CopyComplete
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Receiver\obj\Debug\Receiver.exe
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Receiver\obj\Debug\Receiver.pdb

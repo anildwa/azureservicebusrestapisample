@@ -1,0 +1,6 @@
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Common\bin\Debug\Common.dll
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Common\bin\Debug\Common.pdb
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Common\obj\Debug\Common.dll
+C:\Users\anildwa\source\repos\ServiceBusSenderReceiverWithRestAPI\Common\obj\Debug\Common.pdb
